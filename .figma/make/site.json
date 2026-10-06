@@ -1,0 +1,11 @@
+{
+  "title": "flyer-designs",
+  "description": "Showcases a responsive, print-inspired flyer for a Nigerian food vendor featuring menu highlights, pricing, location, hours, and direct call-to-order links.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
